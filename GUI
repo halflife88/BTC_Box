@@ -1,0 +1,11 @@
+// Clone the git repo
+$ git clone https://github.com/Bitcoin-com/bitbox-gui.git
+
+// Install dependencies
+$ cd bitbox-gui && npm install
+
+// Build app
+$ npm run build
+
+// Launch app
+$ npm start
